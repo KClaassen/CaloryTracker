@@ -3,7 +3,7 @@ package com.kclaassen.calorytracker.di
 import android.app.Application
 import android.content.Context.MODE_PRIVATE
 import android.content.SharedPreferences
-import com.kclaassen.core.domain.DefaultPreferences
+import com.kclaassen.core.domain.data.preferences.DefaultPreferences
 import com.kclaassen.core.domain.preferences.Preferences
 import com.kclaassen.core.domain.use_case.FilterOutDigits
 import dagger.Module
