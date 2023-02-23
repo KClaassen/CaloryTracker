@@ -9,6 +9,7 @@ import androidx.compose.runtime.CompositionLocalProvider
 import androidx.compose.ui.graphics.Color
 import com.kclaassen.core_ui.Dimensions
 import com.kclaassen.core_ui.LocalSpacing
+import com.kclaassen.core_ui.*
 
 private val DarkColorPalette = darkColors(
     primary = BrightGreen,
