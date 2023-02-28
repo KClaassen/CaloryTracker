@@ -28,7 +28,7 @@ val defaultMeals = listOf(
         mealType = MealType.Lunch
     ),
     Meal(
-        name = UiText.StringResource(R.string.breakfast),
+        name = UiText.StringResource(R.string.dinner),
         drawableRes = R.drawable.ic_dinner,
         mealType = MealType.Dinner
     ),
